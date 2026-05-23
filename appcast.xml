@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>ODIN Notch Updates</title>
+    <link>https://raw.githubusercontent.com/peterkgumapac-dotcom/odin-notch-updates/main/</link>
+    <description>ODIN Notch app updates</description>
+    <item>
+      <title>Version 0.1.1</title>
+      <pubDate>Sat, 23 May 2026 07:49:09 +0000</pubDate>
+      <enclosure
+        url="https://raw.githubusercontent.com/peterkgumapac-dotcom/odin-notch-updates/main/ODIN Notch-friendtest.dmg"
+        sparkle:version="202605230248"
+        sparkle:shortVersionString="0.1.1"
+        length="2105949"
+        type="application/octet-stream"
+        sparkle:edSignature="3aPdZCJGu6o93NvMhvN7tZ3VmowR+FJXIy5+HueYEs9Fiy3RUOSSx0wZ64el/k+prRH0q/tc6qktZsH2XhJuCQ==" />
+
+    </item>
+  </channel>
+</rss>
