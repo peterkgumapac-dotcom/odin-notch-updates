@@ -5,15 +5,15 @@
     <link>https://raw.githubusercontent.com/peterkgumapac-dotcom/odin-notch-updates/main/</link>
     <description>ODIN Notch app updates</description>
     <item>
-      <title>Version 0.1.24</title>
-      <pubDate>Sat, 23 May 2026 19:04:30 +0000</pubDate>
+      <title>Version 0.1.25</title>
+      <pubDate>Sun, 24 May 2026 09:15:26 +0000</pubDate>
       <enclosure
-        url="https://raw.githubusercontent.com/peterkgumapac-dotcom/odin-notch-updates/main/ODIN Notch-friendtest-v0.1.24-b202605231404.dmg"
-        sparkle:version="202605231404"
-        sparkle:shortVersionString="0.1.24"
-        length="2240879"
+        url="https://raw.githubusercontent.com/peterkgumapac-dotcom/odin-notch-updates/main/ODIN Notch-friendtest-v0.1.25-b202605240414.dmg"
+        sparkle:version="202605240414"
+        sparkle:shortVersionString="0.1.25"
+        length="2248399"
         type="application/octet-stream"
-        sparkle:edSignature="Ys7YB9o/7GEbY5PDMwcToaU4SHmz8t5v1bvrb7XL246wQ3vCyTh1dhZ/pStJYgishgk6yZ2+6UfLN27cRX0BDw==" />
+        sparkle:edSignature="ABEMz9WdlZWArbUVfusP0jVGCpWNbV9+GK1fltbQO5Lax40wIqn3aZt+ZJViZ/glHoGZILDbWlK/5b14YUDgCg==" />
 
     </item>
   </channel>
