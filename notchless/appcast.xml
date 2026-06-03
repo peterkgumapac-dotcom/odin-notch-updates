@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>ODIN Notch Updates</title>
-    <link>https://raw.githubusercontent.com/peterkgumapac-dotcom/odin-notch-updates/main/</link>
+    <link>https://raw.githubusercontent.com/peterkgumapac-dotcom/odin-notch-updates/main/notchless/</link>
     <description>ODIN Notch app updates</description>
     <item>
       <title>Version 0.1.34</title>
       <pubDate>Wed, 03 Jun 2026 17:42:09 +0000</pubDate>
       <enclosure
-        url="https://raw.githubusercontent.com/peterkgumapac-dotcom/odin-notch-updates/main/ODIN Notch-dev-v0.1.34-b202606031300.dmg"
+        url="https://raw.githubusercontent.com/peterkgumapac-dotcom/odin-notch-updates/main/notchless/ODIN Notch-dev-v0.1.34-b202606031300.dmg"
         sparkle:version="202606031300"
         sparkle:shortVersionString="0.1.34"
         length="2245927"
         type="application/octet-stream"
-        sparkle:edSignature="VQ9CzmlJTrAm20upz2ZrViUdUffFNfN+A5kwJSVVgUBRgGZDirRr9ms3B/ASRela0MFX6QRDsKPhsA6qBdoDBw==" />
+        sparkle:edSignature="sTA16lOE9ZiHir2EkLDcEhT14UIYNUHBXgeBmFSTePWY1AayiZsetUeRgm4+7mgPQQI6xbWDeiLEo2Fkgu0KDQ==" />
 
     </item>
   </channel>
